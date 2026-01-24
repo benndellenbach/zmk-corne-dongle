@@ -349,7 +349,7 @@
             bindings = <
 &trans  &trans  &trans  &trans  &trans  &trans                            &mmv MOVE_UP                     &kp LEFT_BRACE        &kp AMPS    &kp STAR               &kp LEFT_PARENTHESIS  &kp RIGHT_BRACE  &trans
 &trans  &trans  &trans  &trans  &trans  &trans            &mmv MOVE_LEFT  &mkp LCLK       &mmv MOVE_RIGHT  &kp PLUS              &kp DOLLAR  &kp PERCENT            &kp CARET             &kp COLON        &kp TILDE
-&trans  &trans  &trans  &trans  &trans  &trans  &trans                    &mmv MOVE_DOWN                   &kp UNDER             &kp EXCL    &kp AT                 &kp HASH              &kp BACKSLASH    &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans                    &mmv MOVE_DOWN                   &kp UNDER             &kp EXCL    &kp AT                 &kp HASH              &kp BACKSLASH    &kp PIPE
                         &trans  &trans  &trans                                                             &kp LEFT_PARENTHESIS  &trans      &kp RIGHT_PARENTHESIS
             >;
 
