@@ -21,7 +21,7 @@ layers:
   - F
   - G
   - $$mdi:arrow-left-bold$$
-  - {t: GAMING, h: toggle}
+  - {t: RGB, h: toggle}
   - $$mdi:arrow-right-bold$$
   - H
   - J
@@ -35,7 +35,7 @@ layers:
   - C
   - V
   - B
-  - {t: GAMING, h: RGB}
+  - {t: GAMING, h: toggle}
   - $$mdi:arrow-down-bold$$
   - N
   - M
@@ -363,9 +363,9 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - RGB HUD
-  - RGB TOG
-  - RGB HUI
+  - RGB SAD
+  - {t: '$$mdi:transfer$$', type: trans}
+  - RGB SAI
   - {t: '$$mdi:transfer$$', type: trans}
   - RGB EFF
   - RGB SAI
@@ -378,7 +378,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: QWERTY, h: FPS}
+  - RGB TOG
   - RGB BRD
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
