@@ -23,7 +23,7 @@ manifest:
       revision: change_spi2
     - name: zmk-dongle-display
       remote: englmaxi
-      revision: v0.3
+      revision: v0.3.0
     - name: nice-view-gem #newentry
       remote: m165437 
       revision: main #newentry
