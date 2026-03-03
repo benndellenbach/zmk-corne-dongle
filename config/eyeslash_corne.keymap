@@ -329,7 +329,7 @@
                             &trans  &trans  &trans                                    &trans  &trans  &trans
             >;
 
-            sensor-bindings = <&inc_dec_kp LC(=) LC(-)>;
+            sensor-bindings = <&inc_dec_kp LC(EQUAL) LC(MINUS)>;
         };
 
         NUMPAD {
